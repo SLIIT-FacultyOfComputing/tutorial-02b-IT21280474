@@ -1,3 +1,4 @@
+y
 # IT1050-Tutorial-02
 
 ## Objectives : Convert C programs to C++
@@ -8,7 +9,7 @@ Use your Repl.IT account and use the Instructions provided by your Instructors t
 Convert the C program given below which converts a length given in cm to inches to a C++ program.
 
 
-Please Note that the input command in C++ is std::cin. This is a representation of the Keyboard.
+Please note that the input command in C++ is std::cin. This is a representation of the Keyboard.
 
 
 e.g. 
@@ -100,7 +101,8 @@ Please Note that the input command in C++ is ```std::cin```. This is a represent
 ```c
 #include <stdio.h>
 void main(void)
-{
+{1
+
     int no;
     long fac;
 
